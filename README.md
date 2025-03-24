@@ -17,7 +17,7 @@ Sou estudante de **Ciências da Computação** e apaixonado por tecnologia. Meu 
 
   - [Gerador de Senhas](https://github.com/Berllock/password-generator) - Um gerador de senhas seguras e personalizáveis em Python.
 
-  - [Jogo de Xadrez](https://github.com/Berllock/chess-system-java) - Implementação de um jogo de xadrez em Python.
+  - [Jogo de Xadrez](https://github.com/Berllock/chess-system-java) - Implementação de um jogo de xadrez em Java.
 
   - [Compressor de Arquivos](https://github.com/Berllock/compactador-arquivos) - Script Bash para compactação de arquivos.
 
