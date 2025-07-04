@@ -1,11 +1,11 @@
 ## Olá, eu sou Breno 👋
 
-Sou estudante de **Ciências da Computação** e apaixonado por tecnologia. Meu foco principal é o desenvolvimento **back-end com Python**, além de infraestrutura, redes e cloud computing. Atualmente, estou buscando minha primeira oportunidade de **estágio em desenvolvimento de software**.
+Sou estudante de **Ciências da Computação** e apaixonado por tecnologia. Meu foco principal é o desenvolvimento **back-end com Java e Python**, além de infraestrutura, cybersegurança e cloud computing. Atualmente, estou buscando minha primeira oportunidade de **estágio em desenvolvimento de software**.
 
 ## 📚 Sobre mim
 
 - 🎓 **Formado em Redes de Computadores** pelo SENAI e cursando **Ciências da Computação** na Anhanguera
-- 🛠️ Explorando tecnologias como **Python, JavaScript, Node.js, Docker, AWS e Git**
+- 🛠️ Explorando tecnologias como **Python, Java, Node.js, Docker, AWS e Git**
 - 🚀 Buscando me desenvolver como **back-end developer**
 - 🏆 Participação por três anos consecutivos na **Olimpíada de Matemática**
 
