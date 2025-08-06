@@ -5,8 +5,8 @@ Sou estudante de **Ciências da Computação** e apaixonado por tecnologia. Meu 
 ## 📚 Sobre mim
 
 - 🎓 **Formado em Redes de Computadores** pelo SENAI e cursando **Ciências da Computação** na Anhanguera
-- 🛠️ Explorando tecnologias como **Python, Java, Node.js, Docker, AWS e Git**
-- 🚀 Buscando me desenvolver como **back-end developer**
+- 🛠️ Explorando tecnologias como **Java, Spring, React, Node.js, Python, Docker e AWS**
+- 🚀 Buscando me aprimorar como **back-end developer**
 - 🏆 Participação por três anos consecutivos na **Olimpíada de Matemática**
 
 ## 💻 Tecnologias
